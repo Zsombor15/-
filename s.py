@@ -13,7 +13,7 @@ from statistics import multimode
 from sys import prefix
 import discord
 from discord import message
-#from discord.ext import commands, tasks
+from discord.ext import commands, tasks
 from discord import FFmpegPCMAudio
 import asyncio
 import functools
